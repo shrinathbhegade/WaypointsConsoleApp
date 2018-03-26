@@ -1,0 +1,7 @@
+C:\Users\shrinath.bhegade\documents\visual studio 2015\Projects\RouteHelper\RouteWorker\bin\Debug\RouteWorker.dll
+C:\Users\shrinath.bhegade\documents\visual studio 2015\Projects\RouteHelper\RouteWorker\bin\Debug\RouteWorker.pdb
+C:\Users\shrinath.bhegade\documents\visual studio 2015\Projects\RouteHelper\RouteWorker\bin\Debug\RoutReader.dll
+C:\Users\shrinath.bhegade\documents\visual studio 2015\Projects\RouteHelper\RouteWorker\bin\Debug\RoutReader.pdb
+C:\Users\shrinath.bhegade\documents\visual studio 2015\Projects\RouteHelper\RouteWorker\obj\Debug\RouteWorker.csprojResolveAssemblyReference.cache
+C:\Users\shrinath.bhegade\documents\visual studio 2015\Projects\RouteHelper\RouteWorker\obj\Debug\RouteWorker.dll
+C:\Users\shrinath.bhegade\documents\visual studio 2015\Projects\RouteHelper\RouteWorker\obj\Debug\RouteWorker.pdb
