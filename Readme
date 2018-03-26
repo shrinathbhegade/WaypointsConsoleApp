@@ -1,0 +1,8 @@
+This app reads a text file which contains latitude and longitude information.
+After reading those parameters it proposes few options that can be performed on the parameters.
+--------------------------------------------------------------------------------------------------
+
+Issues: 
+The user menu is not correctly ordered
+algorithms are not at all efficient
+It is a very simple and basic application
